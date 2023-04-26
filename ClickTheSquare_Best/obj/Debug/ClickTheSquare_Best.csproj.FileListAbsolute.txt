@@ -1,0 +1,31 @@
+C:\Users\GTQYQS\Desktop\ClickTheSquare_Best\ClickTheSquare_Best\bin\Debug\ClickTheSquare_Best.exe.config
+C:\Users\GTQYQS\Desktop\ClickTheSquare_Best\ClickTheSquare_Best\bin\Debug\ClickTheSquare_Best.exe
+C:\Users\GTQYQS\Desktop\ClickTheSquare_Best\ClickTheSquare_Best\bin\Debug\ClickTheSquare_Best.pdb
+C:\Users\GTQYQS\Desktop\ClickTheSquare_Best\ClickTheSquare_Best\obj\Debug\ClickTheSquare_Best.csprojAssemblyReference.cache
+C:\Users\GTQYQS\Desktop\ClickTheSquare_Best\ClickTheSquare_Best\obj\Debug\ClickTheSquare_Best.Form1.resources
+C:\Users\GTQYQS\Desktop\ClickTheSquare_Best\ClickTheSquare_Best\obj\Debug\ClickTheSquare_Best.Properties.Resources.resources
+C:\Users\GTQYQS\Desktop\ClickTheSquare_Best\ClickTheSquare_Best\obj\Debug\ClickTheSquare_Best.csproj.GenerateResource.cache
+C:\Users\GTQYQS\Desktop\ClickTheSquare_Best\ClickTheSquare_Best\obj\Debug\ClickTheSquare_Best.csproj.CoreCompileInputs.cache
+C:\Users\GTQYQS\Desktop\ClickTheSquare_Best\ClickTheSquare_Best\obj\Debug\ClickTheSquare_Best.exe
+C:\Users\GTQYQS\Desktop\ClickTheSquare_Best\ClickTheSquare_Best\obj\Debug\ClickTheSquare_Best.pdb
+C:\Users\gtqyqs\Downloads\ClickTheSquare_Best\ClickTheSquare_Best\ClickTheSquare_Best\bin\Debug\ClickTheSquare_Best.exe.config
+C:\Users\gtqyqs\Downloads\ClickTheSquare_Best\ClickTheSquare_Best\ClickTheSquare_Best\bin\Debug\ClickTheSquare_Best.exe
+C:\Users\gtqyqs\Downloads\ClickTheSquare_Best\ClickTheSquare_Best\ClickTheSquare_Best\bin\Debug\ClickTheSquare_Best.pdb
+C:\Users\gtqyqs\Downloads\ClickTheSquare_Best\ClickTheSquare_Best\ClickTheSquare_Best\obj\Debug\ClickTheSquare_Best.csprojAssemblyReference.cache
+C:\Users\gtqyqs\Downloads\ClickTheSquare_Best\ClickTheSquare_Best\ClickTheSquare_Best\obj\Debug\ClickTheSquare_Best.Form1.resources
+C:\Users\gtqyqs\Downloads\ClickTheSquare_Best\ClickTheSquare_Best\ClickTheSquare_Best\obj\Debug\ClickTheSquare_Best.Properties.Resources.resources
+C:\Users\gtqyqs\Downloads\ClickTheSquare_Best\ClickTheSquare_Best\ClickTheSquare_Best\obj\Debug\ClickTheSquare_Best.csproj.GenerateResource.cache
+C:\Users\gtqyqs\Downloads\ClickTheSquare_Best\ClickTheSquare_Best\ClickTheSquare_Best\obj\Debug\ClickTheSquare_Best.csproj.CoreCompileInputs.cache
+C:\Users\gtqyqs\Downloads\ClickTheSquare_Best\ClickTheSquare_Best\ClickTheSquare_Best\obj\Debug\ClickTheSquare_Best.exe
+C:\Users\gtqyqs\Downloads\ClickTheSquare_Best\ClickTheSquare_Best\ClickTheSquare_Best\obj\Debug\ClickTheSquare_Best.pdb
+\\Mac\Home\Downloads\high school projects\ClickTheSquare_Best\ClickTheSquare_Best\ClickTheSquare_Best\bin\Debug\ClickTheSquare_Best.exe.config
+\\Mac\Home\Downloads\high school projects\ClickTheSquare_Best\ClickTheSquare_Best\ClickTheSquare_Best\bin\Debug\ClickTheSquare_Best.exe
+\\Mac\Home\Downloads\high school projects\ClickTheSquare_Best\ClickTheSquare_Best\ClickTheSquare_Best\bin\Debug\ClickTheSquare_Best.pdb
+\\Mac\Home\Downloads\high school projects\ClickTheSquare_Best\ClickTheSquare_Best\ClickTheSquare_Best\obj\Debug\ClickTheSquare_Best.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\high school projects\ClickTheSquare_Best\ClickTheSquare_Best\ClickTheSquare_Best\obj\Debug\ClickTheSquare_Best.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Downloads\high school projects\ClickTheSquare_Best\ClickTheSquare_Best\ClickTheSquare_Best\obj\Debug\ClickTheSquare_Best.Form1.resources
+\\Mac\Home\Downloads\high school projects\ClickTheSquare_Best\ClickTheSquare_Best\ClickTheSquare_Best\obj\Debug\ClickTheSquare_Best.Properties.Resources.resources
+\\Mac\Home\Downloads\high school projects\ClickTheSquare_Best\ClickTheSquare_Best\ClickTheSquare_Best\obj\Debug\ClickTheSquare_Best.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\high school projects\ClickTheSquare_Best\ClickTheSquare_Best\ClickTheSquare_Best\obj\Debug\ClickTheSquare_Best.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\high school projects\ClickTheSquare_Best\ClickTheSquare_Best\ClickTheSquare_Best\obj\Debug\ClickTheSquare_Best.exe
+\\Mac\Home\Downloads\high school projects\ClickTheSquare_Best\ClickTheSquare_Best\ClickTheSquare_Best\obj\Debug\ClickTheSquare_Best.pdb
